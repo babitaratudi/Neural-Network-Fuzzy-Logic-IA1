@@ -6,7 +6,7 @@
   
 
 | Name             | Roll No |
-|------------------|---------|
+|:------------------|:---------|
 | Babita Rataudi   | 1813090 |
 | Dhairya Katariya | 1813091 |
 | Sankalp Jain     | 1813084 |
