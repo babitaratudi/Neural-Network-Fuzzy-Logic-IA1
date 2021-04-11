@@ -13,6 +13,21 @@
   
 </details>
 
+
+<details><summary><b>Introduction</b></summary>
+  IntroductionPlants are a very important living factor on earth providing us with food, medicine, and oxygen. A good understanding of plants is essential to help in identifying new or rare plant species in order to improve the drug industry, balance the ecosystem as well as the agricultural productivity and sustainability. To do this lot of botanists are working hard by analyzing different characteristics of the leaf as a comparative tool for their study on plants. This is because leaf characteristics are available to be observed and examined throughout the year indeciduous, annual plants, or year-round in evergreen perennials. But using computer vision time, effort, and manpower required for this task can be reduced. Plant identification using computer vision is still considered a challenging and unsolved problem. This is because all plants in nature have a very similar shape, color, and other characteristics in general.  In this project, we have used convolutional neural networks (CNN) to learn feature representations for  44  different plant species,  collected at the  Royal Botanic Gardens, Kew, England. We have used this dataset and generated two different datasets from it which are D1 to check which features of the leaf are more efficient and robust in correctly classifying plant species from the given image of a leaf.
+</br>
+  
+
+| Name             | Roll No |
+|------------------|---------|
+| Babita Rataudi   | 1813090 |
+| Dhairya Katariya | 1813091 |
+| Sankalp Jain     | 1813084 |
+  
+</details>
+
+
 <details><summary><b>Things Done During The Project  </b></summary>
 </br>
 
@@ -38,6 +53,14 @@
 | 17 | Lastly, we got 44 neurons because we have 44 classes of plants.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 18 | Then we had given batch_size 50 with 40 epoch we got validation accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                |                                                                                                                       |
 </details> 
+
+<details><summary><b>Conclusion</b></summary>
+  
+</br>
+
+In this project, we studied a deep learning approach to learn discriminative features from leaf images with classifiers for plant identification.  From the experimental results, we justified that learning the features through  CNN  can provide better feature representation for leaf images compared to hand-crafted features.  Moreover,  we demonstrated that venation structure is an important feature to identify different plant species.
+  
+</details>
 
 
 <div align="center">
