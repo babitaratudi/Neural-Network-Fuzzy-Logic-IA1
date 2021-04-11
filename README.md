@@ -28,6 +28,31 @@ Dataset (D1): Here wehave used MalayaKew (MK) Leaf Dataset which consists of 44 
 <div align="center"><img alt="Image Snippets-1" src="images/1.PNG"></img></div>
 </details>
 
+<details><summary><b>Suggested Neural Network</b></summary>
+  We have proposed following CNN model to automatically learn the features representation for plant categories, replacing the need of designing hand-crafted features as a means to perform plant classification.
+</br>
+</br>  
+<div align="center"><img alt="Image Snippets-2" src="images/2.PNG"></img></div>
+</details>
+
+<details><summary><b>Project Code</b></summary>
+</br>
+<div align="center"><img alt="Image Snippets-3" src="images/3.PNG"></img></div> 
+</br>
+<div align="center"><img alt="Image Snippets-4" src="images/4.PNG"></img></div> 
+</br>
+<div align="center"><img alt="Image Snippets-5" src="images/5.PNG"></img></div> 
+</br>
+<div align="center"><img alt="Image Snippets-6" src="images/6.PNG"></img></div> 
+</br>
+<div align="center"><img alt="Image Snippets-7" src="images/7.PNG"></img></div> 
+</details>
+
+<details><summary><b>Output</b></summary>
+</br>
+<div align="center"><img alt="Image Snippets-8" src="images/8.PNG"></img></div> 
+</details>
+
 <details><summary><b>Things Done During The Project  </b></summary>
 </br>
 
@@ -59,7 +84,9 @@ Dataset (D1): Here wehave used MalayaKew (MK) Leaf Dataset which consists of 44 
 </br>
 
 In this project, we studied a deep learning approach to learn discriminative features from leaf images with classifiers for plant identification.  From the experimental results, we justified that learning the features through  CNN  can provide better feature representation for leaf images compared to hand-crafted features.  Moreover,  we demonstrated that venation structure is an important feature to identify different plant species.
-  
+</br>
+<div align="center"><img alt="Image Snippets-9" src="images/9.PNG"></img></div>
+
 </details>
 
 
