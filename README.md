@@ -1,4 +1,11 @@
 # NNFL-IA1
+
+| Name             | Roll No |
+|------------------|---------|
+| Babita Rataudi   | 1813090 |
+| Dhairya Katariya | 1813091 |
+| Sankalp Jain     | 1813084 |
+
 |    | Project Explaination                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Our topic is plant classification using Deep CNN, the objective of our project is that given an image of a leaf we need to classify to which species the leaf or the part belongs, it means that we are using a multiclass classification problem where we want to classify the given image into 44 different species of 44 different classes.                                                                                                                                                        |
