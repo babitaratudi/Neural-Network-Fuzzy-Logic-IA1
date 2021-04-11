@@ -39,3 +39,8 @@
 | 18 | Then we had given batch_size 50 with 40 epoch we got validation accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                |                                                                                                                       |
 </details> 
 
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
