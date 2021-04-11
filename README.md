@@ -1,10 +1,21 @@
-# NNFL-IA1
+<h1 align="center">NNFL-IA1</h1>
+
+<details><summary><b>Contributors</b></summary>
+  
+</br>
+  
 
 | Name             | Roll No |
 |------------------|---------|
 | Babita Rataudi   | 1813090 |
 | Dhairya Katariya | 1813091 |
 | Sankalp Jain     | 1813084 |
+  
+</details>
+
+<details><summary><b>Things Done During The Project  </b></summary>
+</br>
+
 
 |    | Project Explaination                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,4 +36,6 @@
 | 15 | Further, one convolution is applied with 256 filters of 5x5 also we added padding which will add a pixel border on the image such that the output size is equal to the input size.                                                                                                                                                                                                                                                                                                                    |
 | 16 | After some more convolution layers, we had used a dropout of 0.5 which will deactivate 50% of neurons which will save us from overfitting.                                                                                                                                                                                                                                                                                                                                                            |
 | 17 | Lastly, we got 44 neurons because we have 44 classes of plants.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 18 | Then we had given batch_size 50 with 40 epoch we got validation accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 18 | Then we had given batch_size 50 with 40 epoch we got validation accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                |                                                                                                                       |
+</details> 
+
