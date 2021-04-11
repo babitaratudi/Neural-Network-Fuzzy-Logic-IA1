@@ -20,6 +20,11 @@
 </br>  
 </details>
 
+<details><summary><b>Dataset Required</b></summary>
+</br>
+Dataset (D1): Here wehave used MalayaKew (MK) Leaf Dataset which consists of 44 classes. This dataset is very  challenging  as  the  leaf  images  from  different  classes  in  this  dataset  have  very  similar appearance. This dataset (D1) mainly consist of images of entire leaf of plants.To enlarge the D1 dataset, we rotate the each of the leaf images in 7 different orientations, e.g. 45°, 90°, 135°, 180°, 225°, 270° and 315°.We then randomly select 528 leaf images for testing and 2288 images for training. 
+</br>  
+</details>
 
 <details><summary><b>Things Done During The Project  </b></summary>
 </br>
